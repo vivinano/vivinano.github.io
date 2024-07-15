@@ -12,8 +12,8 @@ base_url = "https://thevahidal.github.io/jake"
 direction="row"
 item_style= "outline"
 [[sections.items]]
-title= "Twitter"
-url= ""
+title= "Twitter/X"
+url= "https://twitter.com/vivinano_dev"
 [[sections.items]]
 title="Facebook"
 url="https://www.facebook.com/richard.yang.33/"
