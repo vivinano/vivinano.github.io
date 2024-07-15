@@ -20,9 +20,21 @@ url="https://www.facebook.com/richard.yang.33/"
 [[sections.items]]
 title="Linkedin"
 url="https://www.linkedin.com/in/richard-yang-0a866212b"
+[[sections]]
+direction="row"
+item_style= "outline"
+[[sections.items]]
+title= "Twitter"
+url= ""
+[[sections.items]]
+title="Facebook"
+url="https://www.facebook.com/richard.yang.33/"
+[[sections.items]]
+title="Linkedin"
+url="https://www.linkedin.com/in/richard-yang-0a866212b"
 
 [[sections]]
-title="Projects"
+title="Github Projects"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
